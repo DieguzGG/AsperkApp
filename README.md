@@ -3,3 +3,4 @@ Sistema de Administracion, Analisis y Creacion de pedidos de un restaurante apar
 Alan Antonio Barcenas Rodriguez
 Edwing Antonio Renteria Garibay
 Ana Laura Marin Sanchez
+Diego Hernández Rodríguez
